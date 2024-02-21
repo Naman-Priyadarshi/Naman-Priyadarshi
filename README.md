@@ -23,8 +23,5 @@
 
 <a href="https://www.linkedin.com/in/naman-priyadarshi-54830a201/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
 
-
-#### A few things I find funny 🤥
 <img src="https://github.com/Naman-Priyadarshi/Naman-Priyadarshi/assets/77211855/17f109f3-0d17-4f64-af83-b361e5d97ade" width="500" height="500">
