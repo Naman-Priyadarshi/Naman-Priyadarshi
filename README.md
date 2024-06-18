@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [SciCookie](https://github.com/osl-incubator/scicookie)
 - 💬 Ask me about Software Engineering, Data Science, Counter Strike, and honestly anything.
 - 📫 How to reach me: namanpriyadarshicr7 [at] gmail [dot] com
-- ⚡ Fun fact: I love theaters, video games, John Mayer and Batman. 
+- ⚡ Fun fact: I love cinemas, video games, John Mayer and Batman. 
 - 🌐 My Personal Academic [Website](https://naman-priyadarshi.github.io)
 
 <a href="https://steamcommunity.com/id/EaZy_Steam/" target="_blank">
