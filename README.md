@@ -26,6 +26,3 @@
 
 <br>
 <br>
-
-  
-<img src="https://github.com/Naman-Priyadarshi/Naman-Priyadarshi/assets/77211855/17f109f3-0d17-4f64-af83-b361e5d97ade" width="500" height="500">
